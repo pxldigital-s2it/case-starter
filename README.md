@@ -9,6 +9,7 @@
 - _frontend-app_: contains the mobile client written in MAUI
 
 Each folder contains its own specific `.gitignore` file.
+
 **:warning: Fill out these files asap, so you don't litter your repository with binary build artifacts!** 
 ## How to setup and run this application
 
